@@ -30,8 +30,6 @@ The project follows a **layered ETL architecture** inspired by industry-standard
 - Data modeled for reporting and insights
 
 ---
-<img width="1544" height="912" alt="image" src="https://github.com/user-attachments/assets/7c34beb3-1a93-4cbf-b2ca-3a130f1d83fa" />
-
 
 ## 📖 Project Overview
 
