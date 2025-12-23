@@ -126,6 +126,18 @@ sql-etl-pipeline-project/
 
 ---
 
+🔑 Key Learnings
+
+Gained a clear understanding of how ETL pipelines work in real-world data engineering, including the importance of separating data into staging, transformation, and production layers.
+
+Learned how to handle common data quality issues such as null values, duplicate records, and inconsistent formats using SQL transformations.
+
+Understood the value of a layered (Bronze–Silver–Gold) architecture in improving data reliability, traceability, and maintainability.
+
+Improved practical skills in writing clean, modular SQL scripts for extraction, transformation, and loading of data.
+
+Developed confidence in organizing and documenting data projects in a professional manner using GitHub, making the project suitable for portfolio and internship evaluation.
+
 ## 🌟 About Me
 
 👩‍💻 **Manasi Mane**  
