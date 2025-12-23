@@ -10,6 +10,8 @@ This project is also designed as a **portfolio project**, showcasing hands-on sk
 ---
 
 ## 🏗️ ETL Architecture Overview
+<img width="1544" height="912" alt="data_architecture" src="https://github.com/user-attachments/assets/adf1cc69-db31-441c-883f-b71eecedb6af" />
+
 
 The project follows a **layered ETL architecture** inspired by industry-standard practices:
 
